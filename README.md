@@ -3,3 +3,5 @@
 ### A Html and Css Landing page project built with Scss, without the use of Css Flex-box and Css-Grid.
 
 #### **Check out the site preview here 👉 [JoTours-Frontend](https://jotours-frontend.herokuapp.com/)**
+
+![alt text](https://lh3.googleusercontent.com/KPKnnoQSWpPQxX8epp0SOmO8wCk2YNKkxkQLazcVJnx7gDvKQtND9bowYEGWYNF0_nHdY1LVQYHFC7QvMYgxTVHcJuO8ZDxkMrEXdaXo45fVcLboS6Der88AMEcxMsjgvnFDyha63d0mJfGWCHjj0IgoAr_RuIETge8bbHcHQZUYTIhZkJXWzqYKbIMUDU8R6rsPigsURarPUqK8dagWgv_pAuEiA7DRGN4jEGyEeYJxRpKaEeIGq2QEgBsrEumxHCuIb3RLsv0fuEPGyUiHT3Dan4Rer3SeNNRliwK1tb6cBNwfycL_dtVr4uvbbqMbfQdqMjizI4SMd-AhedRr-p_h_KgyLoG_1461mRYk5gIUe-kodEsPe2lKC1cGtpdgoVPTf0BsPvFJzeYxChKkstSl9GUC_-zfnHXnUWjxxjcaEBSNJSBSbT-8cpJwbaqLnQPNGi8uM-rsqpNpgM2dVTeibmHP-2LU-GAn-un2iqJ-6H9kLETG_iNBZmpdoFtF289lM4EyfNeqNUkeQQJjE9tWOuP4ON1YEFMlrZJSxX2Nzj3kVFofjFCh3Atn1CMfri5dKNam1-BMhIQMix75oWApwYYoi-MN_ONIDWAoSKpRRQuUhif-3g4SVRnk4shlSJFs70E50l4jkrSg5RXUBIA9Xqms0GDB-3uLTOBa2vND7Mrvmfu0rY0=w1414-h795-no "Home preview")
